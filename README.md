@@ -23,4 +23,4 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 
 Photo by Tom Thain on Unsplash.
 
-Link: <https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques>
+Link: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
